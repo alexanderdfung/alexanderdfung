@@ -2,4 +2,4 @@
 I'm a research assistant in Ev Fedorenko's language cognition lab at MIT. I hope to start a PhD in 2025 studying theoretical neuroscience, particularly computational principles of memory.
 
 Contact me: alexfung@mit.edu <br />
-Personal website: [alexanderdfung.github.io](alexanderdfung.github.io)
+Personal website: [alexanderdfung.github.io](https://alexanderdfung.github.io/)
